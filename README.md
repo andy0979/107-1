@@ -15,4 +15,5 @@ week 4
 * ttt.css
 * blog.html
 * blog.css
-* profile.html
+Week 5
+* Image Gallery
