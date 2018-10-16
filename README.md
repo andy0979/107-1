@@ -11,13 +11,11 @@
 * tku60.html
 
 ### week 4
-* ttt.html
-* ttt.css
-* blog.html
-* blog.css
+* ttt.html / ttt.css
+* blog.html / blog.css
 
 ### Week 5
 * Image Gallery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjI0MzY5MF19
+eyJoaXN0b3J5IjpbOTcxNzk5ODM0XX0=
 -->
