@@ -12,11 +12,11 @@
 
 ### week 4
 * [ttt.html](https://andy0979.github.io/107-1/w03/div.html) / ttt.css
-* blog.html / blog.css
+* [blog.html](https://andy0979.github.io/107-1/w04/blog%281%29.html) / blog.css
 
 ### Week 5
-* Image Gallery
+* [Image Gallery](https://andy0979.github.io/107-1/w05/imagegallery.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyOTU5NDUsLTQ2NjM3MTA3Miw5NzE3OT
-k4MzRdfQ==
+eyJoaXN0b3J5IjpbLTQyMTAxODA1NywtNDY2MzcxMDcyLDk3MT
+c5OTgzNF19
 -->
