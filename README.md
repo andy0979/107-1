@@ -8,7 +8,7 @@
 *my class.html
 
 ### Week 3
-* tku60.html
+* [tku60.html](https://andy0979.github.io/107-1/w03/tku60.html)
 
 ### week 4
 * ttt.html / ttt.css
@@ -17,5 +17,5 @@
 ### Week 5
 * Image Gallery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM4MDU5ODAsOTcxNzk5ODM0XX0=
+eyJoaXN0b3J5IjpbLTQ2NjM3MTA3Miw5NzE3OTk4MzRdfQ==
 -->
