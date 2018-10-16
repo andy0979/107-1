@@ -5,7 +5,7 @@
 
 ### Week 2
 * [table.html](https://andy0979.github.io/107-1/w02/table.html)
-* my class.html
+* [my class.html](https://andy0979.github.io/107-1/w02/My%20Class.html)
 
 ### Week 3
 * [tku60.html](https://andy0979.github.io/107-1/w03/tku60.html)
@@ -17,6 +17,6 @@
 ### Week 5
 * [Image Gallery](https://andy0979.github.io/107-1/w05/imagegallery.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTAxODA1NywtNDY2MzcxMDcyLDk3MT
-c5OTgzNF19
+eyJoaXN0b3J5IjpbOTY5MjA1MjU1LC00MjEwMTgwNTcsLTQ2Nj
+M3MTA3Miw5NzE3OTk4MzRdfQ==
 -->
