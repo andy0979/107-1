@@ -1,7 +1,7 @@
 # 107-1
 
 ### Week 1
-* intro.html
+* [intro.html](https://andy0979.github.io/107-1/week01/intor.html)
 
 ### Week 2
 * table.html
@@ -17,5 +17,5 @@
 ### Week 5
 * Image Gallery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzk5ODM0XX0=
+eyJoaXN0b3J5IjpbNTUxMDA4NzA5LDk3MTc5OTgzNF19
 -->
